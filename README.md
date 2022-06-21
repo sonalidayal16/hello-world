@@ -7,3 +7,6 @@ I love :coffee: :pizza:, and :dancer:.
 I am a student.
 
 I am doing internship.
+
+I enjoy learning GitHub.
+
